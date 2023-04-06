@@ -1,0 +1,5 @@
+
+
+SWING_TRADE = 1
+CATCH_KNIVES = 2
+

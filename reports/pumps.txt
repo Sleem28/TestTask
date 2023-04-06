@@ -1,0 +1,18 @@
+Date: 2023-04-06 22:56:23.885315 Symbol: OGNUSDT Low price: 0.1286  High price: 0.1299 Last candle time: 2023-04-06 22:47:00
+
+Date: 2023-04-06 22:56:37.413001 Symbol: AUDIOUSDT Low price: 0.3176  High price: 0.3208 Last candle time: 2023-04-06 22:55:00
+
+Date: 2023-04-06 23:00:28.626686 Symbol: AUDIOUSDT Low price: 0.3083  High price: 0.3114 Last candle time: 2023-04-06 23:00:00
+
+Date: 2023-04-06 23:02:00.959573 Symbol: ACHUSDT Low price: 0.04018  High price: 0.04075 Last candle time: 2023-04-06 23:01:00
+
+Date: 2023-04-06 23:04:00.785783 Symbol: HFTUSDT Low price: 0.657  High price: 0.6636 Last candle time: 2023-04-06 22:59:00
+
+Date: 2023-04-06 23:26:36.981853 Symbol: ONTUSDT Low price: 0.3088  High price: 0.3097 Last candle time: 2023-04-06 23:26:00
+
+Date: 2023-04-06 23:26:53.530271 Symbol: ACHUSDT Low price: 0.04027  High price: 0.04036 Last candle time: 2023-04-06 23:26:00
+
+Date: 2023-04-06 23:26:54.900926 Symbol: ICXUSDT Low price: 0.3445  High price: 0.3452 Last candle time: 2023-04-06 23:26:00
+
+Date: 2023-04-06 23:27:02.595644 Symbol: AUDIOUSDT Low price: 0.314  High price: 0.3147 Last candle time: 2023-04-06 23:27:00
+

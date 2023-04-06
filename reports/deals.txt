@@ -1,0 +1,14 @@
+Date: 2023-04-06 22:56:39.238868 Symbol: AUDIOUSDT Price: 0.3204  SL: 0.323604 TP: 0.30438 Quantity: 17.0 Trade mode: 1 Reason: deal open
+
+Date: 2023-04-06 23:00:30.523265 Symbol: AUDIOUSDT Price: 0.3112  SL: 0.314312 TP: 0.29563999999999996 Quantity: 17.0 Trade mode: 1 Reason: deal open
+
+Date: 2023-04-06 23:02:02.517681 Symbol: ACHUSDT Price: 0.04021  SL: 0.040612100000000005 TP: 0.0381995 Quantity: 131.0 Trade mode: 1 Reason: deal open
+
+Date: 2023-04-06 23:26:41.124237 Symbol: ONTUSDT Price: 0.309  SL: 0.31209 TP: 0.29355 Quantity: 170.1 Trade mode: 2 Reason: deal open
+
+Date: 2023-04-06 23:26:58.551326 Symbol: ICXUSDT Price: 0.3445  SL: 0.34794499999999995 TP: 0.327275 Quantity: 16.0 Trade mode: 2 Reason: deal open
+
+Date: 2023-04-06 23:26:58.605289 Symbol: ACHUSDT Price: 0.04028  SL: 0.040682800000000005 TP: 0.038266 Quantity: 131.0 Trade mode: 2 Reason: deal open
+
+Date: 2023-04-06 23:27:06.210902 Symbol: AUDIOUSDT Price: 0.314  SL: 0.31714 TP: 0.2983 Quantity: 17.0 Trade mode: 2 Reason: deal open
+
