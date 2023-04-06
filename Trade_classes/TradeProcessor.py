@@ -120,7 +120,7 @@ class TradeProcessor:
             vol = max_balance_qty
         else:
             vol = (vol // step) * step
-        return min_vol
+        return vol
 
     async def __get_qty_params__(self, symbol: str):
         """Getting the max-min quantity and the step for the instrument."""
