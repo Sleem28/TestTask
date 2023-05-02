@@ -4,7 +4,7 @@ import pandas as pd
 
 class Analizer:
     """ This class contains a various methods for analyzing a trading information. """
-    async def __get_last_candles__(self, client: AsyncClient, symbol: str, tf: str) -> pd.DataFrame:
+    async def __get_last_candles(self, client: AsyncClient, symbol: str, tf: str) -> pd.DataFrame:
         """ Return a dataframe with last candles. """
         global last_candle
         start_str = self.__get_start_param__(tf=tf)
@@ -49,7 +49,7 @@ class Analizer:
     async def get_last_bear_candle_params(self, client: AsyncClient, symbol: str, tf: str) -> dict:
         """ Returns a dictionary with the open of the last bearish candle and the swing's max volume from the
         DateFrame."""
-        last_cdls = await self.__get_last_candles__(client, symbol, tf)
+        last_cdls = await self.__get_last_candles(client, symbol, tf)
         last_bear_candle = last_cdls[last_cdls['Open'] > last_cdls['Close']].tail(1)
         s_low = last_bear_candle['Low'].values[0]
         s_volume = last_bear_candle['Volume'].values[0]
